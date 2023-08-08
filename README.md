@@ -1,2 +1,2 @@
 # crud-task-api
-CRUD tasks API
+Based in MongoDB, Express.js, and Node.js. This is backend api for tasks app.
